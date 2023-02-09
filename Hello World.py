@@ -1,2 +1,2 @@
 # Hello World
-print('Hello World! Have a great day!')
+print('Hello World! Practicing git')
