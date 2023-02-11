@@ -15,4 +15,5 @@ if name == "Kevin":
     print("Hello Kevin")
 else:
     pass
+# pass does nothing. defines else.
     
